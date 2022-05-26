@@ -58,15 +58,16 @@ h3 {
 }
 
 .top-cloud {
-    position: relative; 
-    left: 250px;
+   position: relative; 
+    left: 400px;
     
 
 }
 
 
 .bottom-cloud {
-    position: absolute;
+   position: absolute;
+    left: 400px;
     
 
 }
@@ -74,7 +75,7 @@ h3 {
 
 .mountain  {
 
-    text-emphasis: none;
+      margin-top: 150px;
 
 }
 
